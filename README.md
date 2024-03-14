@@ -6,9 +6,9 @@
 
 This project is aimed at showcasing the ease of using React to create a simple app. It uses the Spotify WebAPI [https://developer.spotify.com/documentation/web-api] to fetch tracks and save playlists.
 
-	The applications allows the user to login using implicit grant and then stores the access token and user credentials in the browser’s session storage. Once these have been received and stored, the user is able to then search Spotify’s catalogue of tracks to save to their custom playlist. 
+The applications allows the user to login using implicit grant and then stores the access token and user credentials in the browser’s session storage. Once these have been received and stored, the user is able to then search Spotify’s catalogue of tracks to save to their custom playlist. 
 
-	The project uses React JS to accomplish this and is a fine example of the use of fetch, async functions and API calls. It also showcases how react is perfect for Single Page Applications (SPAs).
+The project uses React JS to accomplish this and is a fine example of the use of fetch, async functions and API calls. It also showcases how react is perfect for Single Page Applications (SPAs).
 
 # How to Run
 
