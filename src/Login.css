@@ -1,0 +1,41 @@
+
+#login-title {
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    font-size: 8rem;
+    color: #1ed760;
+  }
+  
+  #logo-title-span {
+    background: -webkit-radial-gradient(rgb(30, 215, 96), rgb(0, 0, 0));
+    -webkit-background-clip: text;
+    background-clip: inline;
+    -webkit-text-fill-color: transparent;
+  }
+
+  #login-btn {
+    position: absolute;
+    left: 30%;
+    top: 50%;
+    cursor: pointer;
+    width: 20rem;
+    height: 5rem;
+    padding: 0.77rem 0;
+    border-radius: 54px;
+    background-color: #9ba3c4b4;
+    text-align: center;
+    font-size: 2rem;
+    transition: background-color 0.25s;
+    border: 0px;
+    color: #fff;
+    font-weight: 500;
+  }
+
+  #logo {
+    position: absolute;
+    top: 30%;
+    left: 23%;
+    width: 500px;
+  }
+  

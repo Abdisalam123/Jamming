@@ -1,0 +1,12 @@
+#username {
+    position: absolute;
+    display: none;
+    top: 0rem;
+    left: 45rem;
+    color: white;
+    background-color: purple;
+    width: 220px;
+    height: 40px;
+    border-radius: 54px;
+    text-align: center;
+  }
